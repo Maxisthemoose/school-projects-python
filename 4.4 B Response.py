@@ -41,7 +41,7 @@ print(alpha)
 
 # #1
 # This program will only accept an input that is alphabetic characters, no alpha-numeric characters.
-# Once the input is only aclphabetic characters, it will output the same string back, but with the first letter
+# Once the input is only alphabetic  characters, it will output the same string back, but with the first letter
 # capitalized.
 
 # #2
